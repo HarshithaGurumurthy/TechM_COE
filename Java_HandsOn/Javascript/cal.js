@@ -1,8 +1,3 @@
-function sumOfDigitsEvenOrOdd(num) {
-    let sum = num.toString().split('').reduce((acc, digit) => acc + parseInt(digit), 0);
-    console.log(sum % 2 === 0 ? 'Even' : 'Odd');
-}
-
 const chooseOperation = () => {
     let operation = 'add';
     let a = 10, b = 5;
