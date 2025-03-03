@@ -1,1 +1,12 @@
-
+[
+    {
+        "name": "Alice Johnson",
+        "topic": "AI and the Future",
+        "image": "images/alice.jpg"
+    },
+    {
+        "name": "John Doe",
+        "topic": "Cybersecurity in 2025",
+        "image": "images/john.jpg"
+    }
+]

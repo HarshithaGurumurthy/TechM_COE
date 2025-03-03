@@ -1,0 +1,17 @@
+[
+    {
+        "time": "10:00 AM",
+        "title": "Opening Keynote",
+        "speaker": "Alice Johnson"
+    },
+    {
+        "time": "11:30 AM",
+        "title": "The Future of AI",
+        "speaker": "Dr. Mark Lee"
+    },
+    {
+        "time": "2:00 PM",
+        "title": "Cybersecurity Trends",
+        "speaker": "John Doe"
+    }
+]
