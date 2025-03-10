@@ -1,0 +1,51 @@
+[
+    {
+      "name": "Fashion Illustration",
+      "description": "Learning how to create stunning fashion sketching illustrations.",
+      "image": "assets/illustration.jfif",
+      "startDate": "2025-04-10",
+      "endDate": "2025-07-15",
+      "videoUrl": "https://www.youtube.com/shorts/yrJfcOR9vd8"
+    },
+    {
+      "name": "Textile Design",
+      "description": "Explore patterns and techniques in textile design.",
+      "image": "assets/textile.jpg",
+      "startDate": "2025-05-01",
+      "endDate": "2025-08-30",
+      "videoUrl": "https://www.youtube.com/watch?v=PGoJOblOLfo"
+    },
+    {
+      "name": "Apparel Construction",
+      "description": "Master the art of pattern making and sewing.",
+      "image": "assets/apparel.jpg",
+      "startDate": "2025-06-10",
+      "endDate": "2025-09-20",
+      "videoUrl": "https://www.youtube.com/shorts/vxkpMn3mdlE"
+    },
+    {
+      "name": "Fashion Marketing",
+      "description": "Learn branding and marketing strategies in fashion.",
+      "image": "assets/marketing.jfif",
+      "startDate": "2025-07-15",
+      "endDate": "2025-10-25",
+      "videoUrl": "https://www.youtube.com/watch?v=Ohn-xU0iU_8"
+    },
+    {
+      "name": "Sustainable Fashion",
+      "description": "Understand eco-friendly and ethical fashion trends.",
+      "image": "assets/sustainable.jfif",
+      "startDate": "2025-08-05",
+      "endDate": "2025-11-15",
+      "videoUrl": "https://www.youtube.com/watch?v=9NV7JAj4Z10"
+    },
+    {
+      "name": "Fashion Styling",
+      "description": "Enhance your styling skills for editorial and personal fashion.",
+      "image": "assets/styling.png",
+      "startDate": "2025-09-01",
+      "endDate": "2025-12-10",
+      "videoUrl": "https://www.youtube.com/watch?v=4w5_9QrVxVA"
+    }
+  ]
+  
